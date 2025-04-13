@@ -32,7 +32,7 @@
 *.app
 
 # Exclude CPP build directory
-/build/
+cpp-implementation/build/
 
 # Exclude Python __pycache__ directories
-/__pycache__/
+python-implementation/kalman_filter/__pycache__/
