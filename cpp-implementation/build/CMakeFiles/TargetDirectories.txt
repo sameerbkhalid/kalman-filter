@@ -1,3 +1,0 @@
-/home/sameer/Documents/Projects/kalman-filter/cpp-implementation/build/CMakeFiles/KalmanFilterCPP.dir
-/home/sameer/Documents/Projects/kalman-filter/cpp-implementation/build/CMakeFiles/edit_cache.dir
-/home/sameer/Documents/Projects/kalman-filter/cpp-implementation/build/CMakeFiles/rebuild_cache.dir
