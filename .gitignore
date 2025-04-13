@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Exclude CPP build directory
+/build/
+
+# Exclude Python __pycache__ directories
+/__pycache__/
